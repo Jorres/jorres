@@ -6,7 +6,6 @@
 ---
 ✨ I'm a backend developer and a DevOps engineer.
 
-- 🔭 I’m currently working at Yandex.
 - 🌱 I’m currently learning Lua for writing NeoVim plugins and Ansible for better configuration management!
 - 📫 How to reach me: @Jorres on Telegram
 
